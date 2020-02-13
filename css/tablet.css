@@ -1,0 +1,57 @@
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: Yellow;
+  }
+}
+
+body {background-color: AliceBlue
+;}
+a {
+
+  color: Black;
+  background-color: Cadetblue;
+}
+
+h2 {
+  text-align: left;
+  color: DarkCyan
+;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+p{
+
+  color: Black;
+}
+li{
+
+  color: Blue;
+}
+ul{
+
+  color:Blue;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th {
+  height: 25px;
+}
+input[type=text] {
+  width: 25%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+h4.hob {
+
+  color:Black;
+  text-decoration-line: underline
+}
+#intro {
+  font-weight: bold;
+}
